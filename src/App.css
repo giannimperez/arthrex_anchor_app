@@ -1,0 +1,39 @@
+.App {
+    text-align: center;
+    min-height: 100vh;
+    background: #323436;
+    display: block;
+    justify-content: space-around;
+    align-items: baseline;
+}
+
+.MyNavbar {
+    text-align: center;
+    background: #222426;
+    display: block;
+    justify-content: space-around;
+    align-items: baseline;
+    margin-bottom: 10mm;
+}
+
+.Search {
+    text-align: center;
+    background: #323436;
+    display: block;
+    justify-content: space-around;
+    align-items: baseline;
+    margin: 1mm;
+}
+
+.Button {
+    background-color: #1262b3;
+    margin: 1mm;
+}
+
+.H1 {
+    color: white;
+}
+
+.nav.MyNavbar-nav.MyNavbar-right li a {
+    color: blue;
+}
