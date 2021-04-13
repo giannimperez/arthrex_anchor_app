@@ -1,0 +1,37 @@
+{
+    "brand": "Arthrex",
+    "name": "Corkscrew FT – The Original FT Anchor",
+    "size": [
+        "4.5mm",
+        "5.5mm",
+        "6.5mm"
+    ],
+    "material": [
+        "BioComposite",
+        "PEEK",
+        "Titanium",
+        "Bio"
+    ],
+    "competitor": [
+        "Biomet ALLthread",
+        "Biomet JuggerKnot",
+        "ConMed Linvatec CrossFT™"
+    ],
+    "features": [
+        "Knotted",
+        "Cannulated and vented",
+        "SutureTape",
+        "Internal suture loop",
+        "High fixation strength"
+    ],
+    "sellingPoints": [
+        "Cannulated and vented: Anchor design minimizes anchor material and allows blood and bone marrow to flow through the anchor",
+        "SutureTape version: Differentiate from competitor knot tying systems with SutureTape benefits which are stronger knotless and knotted fixation - higher resistance to tissue pullthrough and better handling characteristics",
+        "Internal suture loop: Allows cortical engagement of screw thread, no need to countersink anchor",
+        "Internal suture loop: No need for eyelet orientation, self-oriented",
+        "Internal suture loop: Removes risk of suture cheese wire through bio and BioComposite material",
+        "Internal suture loop: Allows for a smooth suture on suture slide",
+        "High fixation strength: 350-400N",
+        "Sell the suture eyelet benefits alongside SutureTape-BioComposite and vented anchor body to secure business"
+    ]
+}

@@ -1,5 +1,11 @@
+label {
+    display: inline-block;
+    
+}
+
+
 .App {
-    text-align: center;
+    /*text-align: center;*/
     min-height: 100vh;
     background: #323436;
     display: block;
@@ -23,11 +29,14 @@
     justify-content: space-around;
     align-items: baseline;
     margin: 1mm;
+    
 }
 
 .Button {
     background-color: #1262b3;
+    color: white;
     margin: 1mm;
+    transform: translateY(-3px);
 }
 
 .H1 {
@@ -36,4 +45,14 @@
 
 .nav.MyNavbar-nav.MyNavbar-right li a {
     color: blue;
+}
+
+.JsonReader {
+    color:white;
+    background-color: white;
+}
+
+.JsonData {
+    color: white;
+    text-align: left;
 }

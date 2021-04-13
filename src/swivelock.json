@@ -1,0 +1,40 @@
+{
+    "brand": "Arthrex",
+    "name": "SwiveLock® – The King of Cuff Anchors",
+    "size": [
+        "4.75mm",
+        "5.5mm",
+        "6.25mm",
+        "7mm",
+        "8mm",
+        "9mm tenodesis"
+    ],
+    "material": [
+        "BioComposite",
+        "PEEK",
+        "Titanium",
+        "Bio"
+    ],
+    "competitor": [
+        "Biomet ALLthread Knotless",
+        "ConMed CrossFT™ Knotless"
+    ],
+    "features": [
+        "Knotless",
+        "FiberTape",
+        "Cannulated and vented",
+        "SpeedBridge",
+        "Double loaded SwiveLock",
+        "High fixation strength",
+        "Simple tensioning"
+    ],
+    "sellingPoints": [
+        "Cannulated and vented: Anchor design minimizes anchor material and allows blood and bone marrow to flow through the anchor",
+        "Speed and efficiency: SpeedBridge is the original and strongest knotless double row. Self-punching and closed eyelet options",
+        "Stay suture versatility: For either medial knot tie or dog ear reduction",
+        "Double loaded SwiveLock: For any rotator cuff repair technique, single or double row, knotted or knotless",
+        "Highest fixation strength of any anchor: 710N in independent testing (Barber Arthroscopy 2008)",
+        "Simple tensioning: Prior to deployment prevents loosening or damage to anchor during tensioning",
+        "No other company can offer a BioComposite knotless anchor with FiberTape. Sell these features and lock out your competition!"
+    ]
+}

@@ -8,6 +8,15 @@ export default class APITest extends React.Component {
 
     async componentDidMount(){
         const url = "http://localhost:3000/test/things/";
+        
+        // This fails
+        //try{
+            //const response = await fetch(url, {mode: 'no-cors'});
+        //}catch(e){
+            //console.log('Error: ', e);
+        //}
+        
+
         const response = await fetch(url);
         const data = await response.json();
         console.log("Hello");

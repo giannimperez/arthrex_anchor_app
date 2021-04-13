@@ -3,6 +3,7 @@ import '../App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container, Row, Col, Button, Alert, Breadcrumb, Card, Form, Navbar, Nav, NavDropdown, FormControl } from 'react-bootstrap';
 
+// Useless navbar for show
 function MyNavbar() {
   return (
     <div className="MyNavbar">
